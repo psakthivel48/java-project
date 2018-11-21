@@ -1,0 +1,8 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Script.Demo33"/>
+    </classes>
+  </test> 
+</suite> 
